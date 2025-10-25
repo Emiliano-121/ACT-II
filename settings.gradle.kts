@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "tareasv1"
 include(":app")
- 
+include(":Desktop")
+include(":Login")
